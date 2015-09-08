@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/pratik/Desktop/Siva/LINQ2Plus/Mobile/iOS/Components/Cordova/iOS/CordovaLib/Classes/CDVLocalStorage.m \
+  /Users/pratik/Desktop/Siva/LINQ2Plus/Mobile/iOS/Components/Cordova/iOS/CordovaLib/Classes/CDVLocalStorage.h \
+  /Users/pratik/Desktop/Siva/LINQ2Plus/Mobile/iOS/Components/Cordova/iOS/CordovaLib/Classes/CDVPlugin.h \
+  /Users/pratik/Desktop/Siva/LINQ2Plus/Mobile/iOS/Components/Cordova/iOS/CordovaLib/Classes/CDVPluginResult.h \
+  /Users/pratik/Desktop/Siva/LINQ2Plus/Mobile/iOS/Components/Cordova/iOS/CordovaLib/Classes/NSMutableArray+QueueAdditions.h \
+  /Users/pratik/Desktop/Siva/LINQ2Plus/Mobile/iOS/Components/Cordova/iOS/CordovaLib/Classes/CDVCommandDelegate.h \
+  /Users/pratik/Desktop/Siva/LINQ2Plus/Mobile/iOS/Components/Cordova/iOS/CordovaLib/Classes/CDVAvailability.h \
+  /Users/pratik/Desktop/Siva/LINQ2Plus/Mobile/iOS/Components/Cordova/iOS/CordovaLib/Classes/CDVInvokedUrlCommand.h \
+  /Users/pratik/Desktop/Siva/LINQ2Plus/Mobile/iOS/Components/Cordova/iOS/CordovaLib/Classes/CDV.h \
+  /Users/pratik/Desktop/Siva/LINQ2Plus/Mobile/iOS/Components/Cordova/iOS/CordovaLib/Classes/CDVViewController.h \
+  /Users/pratik/Desktop/Siva/LINQ2Plus/Mobile/iOS/Components/Cordova/iOS/CordovaLib/Classes/CDVCommandQueue.h \
+  /Users/pratik/Desktop/Siva/LINQ2Plus/Mobile/iOS/Components/Cordova/iOS/CordovaLib/Classes/CDVWhitelist.h \
+  /Users/pratik/Desktop/Siva/LINQ2Plus/Mobile/iOS/Components/Cordova/iOS/CordovaLib/Classes/CDVScreenOrientationDelegate.h \
+  /Users/pratik/Desktop/Siva/LINQ2Plus/Mobile/iOS/Components/Cordova/iOS/CordovaLib/Classes/CDVURLProtocol.h \
+  /Users/pratik/Desktop/Siva/LINQ2Plus/Mobile/iOS/Components/Cordova/iOS/CordovaLib/Classes/CDVDebug.h \
+  /Users/pratik/Desktop/Siva/LINQ2Plus/Mobile/iOS/Components/Cordova/iOS/CordovaLib/Classes/CDVTimer.h \
+  /Users/pratik/Desktop/Siva/LINQ2Plus/Mobile/iOS/Components/Cordova/iOS/CordovaLib/Classes/NSArray+Comparisons.h \
+  /Users/pratik/Desktop/Siva/LINQ2Plus/Mobile/iOS/Components/Cordova/iOS/CordovaLib/Classes/NSData+Base64.h \
+  /Users/pratik/Desktop/Siva/LINQ2Plus/Mobile/iOS/Components/Cordova/iOS/CordovaLib/Classes/NSDictionary+Extensions.h \
+  /Users/pratik/Desktop/Siva/LINQ2Plus/Mobile/iOS/Components/Cordova/iOS/CordovaLib/Classes/UIDevice+Extensions.h \
+  /Users/pratik/Desktop/Siva/LINQ2Plus/Mobile/iOS/Components/Cordova/iOS/CordovaLib/Classes/CDVJSON.h
